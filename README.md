@@ -3,7 +3,7 @@
 **Data Science Intern Task Solution** - Builds a comprehensive payroll risk detection system using ML to identify high-risk employees from attendance patterns, leave frequency, and salary anomalies. Meets all requirements: feature engineering, 3-model comparison (XGBoost best), mathematical justification, EDA, and risk scoring.
 
 ## 🎯 Problem Statement
-From ZENVY DS PDF: Engineer features from attendance/leave/salary data to predict high-risk payroll records. Compare 3 models, justify choice mathematically, deliver notebook with EDA, modeling, feature importance, and model comparison table. Deadline: 30/12/2026.
+Engineer features from attendance/leave/salary data to predict high-risk payroll records. Compare 3 models, justify choice mathematically, deliver notebook with EDA, modeling, feature importance, and model comparison table.
 
 ## 📊 Key Features
 - **Data**: 10,000 synthetic payroll records (attendance_days, total_work_days=250, leave_freq, salary, prev_salary, risk_label ~5% positive).
